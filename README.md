@@ -474,7 +474,7 @@ If you use datasets from the DSFSI collection, please cite both the specific dat
 For specific datasets, please see individual dataset pages for citation information.
 
 ---
-
+This dataset is also a wrong fit for me! Hopefully useful when the time comes.
 ## Contact
 
 **Data Science for Social Impact (DSFSI) Research Group**
